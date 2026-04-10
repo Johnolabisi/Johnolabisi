@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm John Olabisi 👋
 
 <!--
 **Johnolabisi/Johnolabisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile! I'm a Frontend Engineer based in Nigeria. I love building interactive and effective webpages.
+
+🔧 Technologies & Tools
+Javascript/Reactjs
+Python
